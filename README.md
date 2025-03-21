@@ -28,7 +28,6 @@ The project consists of:
 
 
 ## Future Enhancements
-- Automate log forwarding using **Syslog or a Splunk Universal Forwarder**
 - Integrate with **FortiGate firewall** for enhanced security visibility
 - Implement **SOAR automation** for incident response
 
